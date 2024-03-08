@@ -1,7 +1,7 @@
-### 👾 Olá, sou Pedro Guedes 👾
+### Olá, sou Pedro Guedes 
 
 ### Linguagens Estudadas :
-(Basta somente clickar em algum icon 😉)
+Basta somente clickar em algum icon :
 <div style="display":inline_block>
 <a href = "https://github.com/PedroHGuedesBraga/Python-UFPB/tree/main/Guanabara%20curso%20python"> <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href = "https://github.com/PedroHGuedesBraga/POO-Project-Movie-application-"> <img align="center" alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
