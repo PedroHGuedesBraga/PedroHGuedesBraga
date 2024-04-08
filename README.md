@@ -1,5 +1,5 @@
 ### Olá, sou Pedro Guedes 
-
+### Dev Front/Back at : <a href = "https://eip-store.vercel.app/"></a>   <a href = "https://escritorio-rho.vercel.app"></a>
 ### Linguagens Estudadas :
 Basta somente clickar em algum icon :
 <div style="display":inline_block>
